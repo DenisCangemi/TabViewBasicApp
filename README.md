@@ -1,4 +1,7 @@
 # NativeScript TabView Basic Application
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/DenisCangemi/TabViewBasicApp.svg)](https://greenkeeper.io/)
+
 A basic Nativescript app based on TabView which contains 3 reay to use components
 
 ### Architecture
